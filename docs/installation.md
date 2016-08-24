@@ -124,7 +124,7 @@ docker-machine env default
 
 Make sure that the name of the image is correct.
 
- ###Using Docker compose
+ ### Using Docker compose
 
 if docker-compose [installed](https://docs.docker.com/compose/install/) you can alternatively run the PokemonGo-Bot ecosystem with one simple command:  
 (by using the docker-compose.yml configuration in this repo)
